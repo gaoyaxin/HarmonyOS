@@ -73,12 +73,12 @@ HormonyOS relies on multi-terminal development IDE, multi-language unified compi
 
 ## 2) Download
 
-- [Mirrors]()
+- [Mirrors]
 
 ## 3) Architecture References
 
-- [ABI]() Application Binary Interface
-- [EABI]() Embedded Application Binary Interface
+- [ABI]： Application Binary Interface
+- [EABI]： Embedded Application Binary Interface
 - [LiteOS](src/LiteOS/README.md)
 
 
@@ -119,7 +119,7 @@ HormonyOS relies on multi-terminal development IDE, multi-language unified compi
 
 ## 7) Products
 
-- [Honor Smart Screen -- The first device to use the HoemonyOS](../products/honor_smart_screen.md)
+- [Honor Smart Screen -- The first device to use the HoemonyOS](products/honor_smart_screen.md)
 
 ## 8) Books
 
