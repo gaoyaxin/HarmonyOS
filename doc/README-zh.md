@@ -10,17 +10,17 @@
 
 # 一、HarmonyOS简介
 
-鸿蒙系统（HarmonyOS），是第一款基于微内核的全场景分布式OS，是华为自主研发的操作系统。2019年8月9日，鸿蒙系统在华为开发者大会`<HDC.2019>`上正式发布，华为会率先部署在智慧屏、车载终端、穿戴等智能终端上，未来会有越来越多的智能设备使用开源的鸿蒙OS。
+`鸿蒙系统（HarmonyOS）`，是第一款基于微内核的全场景分布式OS，是华为自主研发的操作系统。2019年8月9日，鸿蒙系统在华为开发者大会`<HDC.2019>`上正式发布，华为会率先部署在智慧屏、车载终端、穿戴等智能终端上，未来会有越来越多的智能设备使用开源的`鸿蒙OS`。
 
-鸿蒙OS实现模块化耦合，对应不同设备可弹性部署，鸿蒙OS有三层架构，第一层是内核，第二层是基础服务，第三层是程序框架 。可用于大屏、PC、汽车等各种不同的设备上。还可以随时用在手机上，但暂时华为手机端依然优先使用安卓。
+`鸿蒙OS`实现模块化耦合，对应不同设备可弹性部署，`鸿蒙OS`有三层架构，第一层是内核，第二层是基础服务，第三层是程序框架 。可用于大屏、PC、汽车等各种不同的设备上。还可以随时用在手机上，但暂时华为手机端依然优先使用安卓。
 
-鸿蒙 OS 底层由鸿蒙微内核、Linux 内核、Lite OS 组成，未来将发展为完全的鸿蒙微内核架构。
+`鸿蒙 OS` 底层由鸿蒙微内核、Linux 内核、Lite OS 组成，未来将发展为完全的鸿蒙微内核架构。
 
 ----
 
 # 二、HarmonyOS发展进程
 
-- 2012年，华为开始规划自有操作系统“鸿蒙”。
+- 2012年，华为开始规划自有操作系统“`鸿蒙`”。
 - 2019年5月24日，国家知识产权局商标局网站显示，华为已申请“华为鸿蒙”商标，申请日期是2018年8月24日，注册公告日期是2019年5月14日，专用权限期是从2019年5月14日到2029年5月13日。
 - 2019年5月17日，由某教授领导的华为操作系统团队开发了自主产权操作系统——鸿蒙。
 - 2019年8月9日，华为正式发布鸿蒙系统余承东介绍，鸿蒙操作系统开源。
@@ -68,35 +68,36 @@
 ## （一）离线资源
 
 - [离线站点](https://developer.huawei.com)
-- [Release消息]()
-- [安全消息]()
-- [入门鸿蒙]()
-- [鸿蒙官方文档]()
+- [Release消息]
+- [安全消息]
+- [入门鸿蒙]
+- [鸿蒙官方文档]
 
 ## （二）下载
 
-- [镜像]()
+- [镜像]
 
 ##  （三）架构相关
 
-- [ABI]()
-- [EABI]()
+- [ABI]
+- [EABI]
+- [LiteOS 鸿蒙的一部分，已经开源](../src/LiteOS/README.md)
 
 ##  （四）软件驱动
 
-- [Device compatibility]()
-- [Standards & Protocols]()
-- [Hareware Quality Specification]()
-- [Driver Development Kit]()
-- [Driver Samples]()
-- [Debugging Tools]()
-- [Security]()
-- [5th Gen Drivers and Firmware]()
-- [Boot and UEFI]()
-- [ACPI/SoC]()
-- [Wi-Fi]()
-- [USB]()
-- [Printer]()
+- [Device compatibility]
+- [Standards & Protocols]
+- [Hareware Quality Specification]
+- [Driver Development Kit]
+- [Driver Samples]
+- [Debugging Tools]
+- [Security]
+- [5th Gen Drivers and Firmware]
+- [Boot and UEFI]
+- [ACPI/SoC]
+- [Wi-Fi]
+- [USB]
+- [Printer]
 
 
 ##  （五）开发者工具
@@ -107,11 +108,11 @@
 
 #### SDK
 
-[关于SDK]()
+[关于SDK]
 
 #### IDE
 
-[关于 IDE]()
+[关于 IDE]
 
 ##  （六）社区
 
@@ -124,8 +125,10 @@
 
 ##  （八）书籍
 
-* [书籍，点此进入相关页面]()
+* [书籍]
 
 ##  （九）视频
 
-* [视频讲解，点此查看视频讲解]()
+* [视频讲解]
+* [【HDC 2019】华为开发者大会-暨鸿蒙OS及EMUI 10发布会完整视频](https://www.bilibili.com/video/av62922095/)
+* [荣耀智慧屏发布会完整视频](https://www.bilibili.com/video/av63069901)

@@ -65,10 +65,10 @@ HormonyOS relies on multi-terminal development IDE, multi-language unified compi
 ## 1) Official Resources
 
 - [Official Site](https://developer.huawei.com)
-- [Release Notices]()
-- [Security Notices]()
-- [Tutorials]()
-- [Documentation]()
+- [Release Notices]
+- [Security Notices]
+- [Tutorials]
+- [Documentation]
 
 
 ## 2) Download
@@ -79,22 +79,24 @@ HormonyOS relies on multi-terminal development IDE, multi-language unified compi
 
 - [ABI]() Application Binary Interface
 - [EABI]() Embedded Application Binary Interface
+- [LiteOS](src/LiteOS/README.md)
+
 
 ## 4) Hardware drivers
 
-- [Device compatibility]()
-- [Standards & Protocols]()
-- [Hareware Quality Specification]()
-- [Driver Development Kit]()
-- [Driver Samples]()
-- [Debugging Tools]()
-- [Security]()
-- [5th Gen Drivers and Firmware]()
-- [Boot and UEFI]()
-- [ACPI/SoC]()
-- [Wi-Fi]()
-- [USB]()
-- [Printer]()
+- [Device compatibility]
+- [Standards & Protocols]
+- [Hareware Quality Specification]
+- [Driver Development Kit]
+- [Driver Samples]
+- [Debugging Tools]
+- [Security]
+- [5th Gen Drivers and Firmware]
+- [Boot and UEFI]
+- [ACPI/SoC]
+- [Wi-Fi]
+- [USB]
+- [Printer]
 
 
 ## 5) Developer Tools
@@ -105,11 +107,11 @@ HormonyOS relies on multi-terminal development IDE, multi-language unified compi
 
 #### b. SDK
 
-[about SDK]()
+[about SDK]
 
 #### c. IDE
 
-[about IDE]()
+[about IDE]
 
 ## 6) Community
 
@@ -121,8 +123,10 @@ HormonyOS relies on multi-terminal development IDE, multi-language unified compi
 
 ## 8) Books
 
-* [about books,click here to enter the E-Shop]()
+* [about books]
 
 ## 9) Videos
 
-* [Instructional Videos,,click here to watch the videos]()
+* [Instructional Videos]
+* [【HDC 2019】Video](https://www.bilibili.com/video/av62922095/)
+* [Honor Smart Screen Video](https://www.bilibili.com/video/av63069901)
